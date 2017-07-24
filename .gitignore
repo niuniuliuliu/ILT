@@ -3,3 +3,9 @@ dataset1/rtMatrix.txt
 dataset1/tpMatrix.txt
 dataset1/userlist.txt
 dataset1/wslist.txt
+.DS_Store
+.idea
+node_modules
+*.log
+workspace.xml
+build/*
